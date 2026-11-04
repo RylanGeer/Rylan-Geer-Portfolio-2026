@@ -11,7 +11,7 @@ Computer Science graduate with expertise bridging **3D character design/animatio
 - **3D Design & Game Assets:** 3D Modeling, Rigging, Character Animation, Asset Pipelines, 2D/3D Design
 - **Programming Languages:** Python, Go, Java, C, C++, JavaScript, HTML/CSS, Bash, Haskell, Lisp
 - **Systems & Architecture:** Distributed Systems, Client-Server Architecture, Multithreading, TCP/IP Networking, Linux/Unix Environments
-- **Game Engine Exploration:** Engine Scripting, Asset Integration, Pipeline Optimization
+- **Game Engine Exploration:** Asset Integration, Pipeline Optimization
 
 ---
 
