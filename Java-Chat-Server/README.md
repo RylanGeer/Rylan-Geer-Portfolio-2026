@@ -1,10 +1,6 @@
 # Java Chat Server
 
-Document your multi-client Java chat application here.
+This project was a group project that was to create a minimal chat service using java.
 
-Suggested media:
-- Architecture diagram
-- Terminal screenshots showing multiple clients
-- Screenshots of server output
-
-Add only screenshots that demonstrate the actual implementation. Include build/run instructions and explain client connections, message handling, and concurrency.
+<img width="1571" height="1231" alt="image" src="https://github.com/user-attachments/assets/dc788f1e-1680-403e-800c-7445fd78488d" />
+<img width="641" height="701" alt="image" src="https://github.com/user-attachments/assets/4f5d9b41-a46f-4db9-babf-a2405f5383e3" />
